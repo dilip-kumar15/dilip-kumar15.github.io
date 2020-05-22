@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://chandrikadeb7.github.io/)
+[Click Here](https://dilip.kumar.github.io/)
 
 ## An attractive portfolio website with lucid information flow for Developers!
 
@@ -16,4 +16,4 @@
 
 Good Luck! :+1: 
 
-:e-mail: chandrikadeb7@gmail.com
+:e-mail: dilip-kumar15@outlook.com
