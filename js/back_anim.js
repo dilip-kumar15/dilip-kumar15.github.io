@@ -1,10 +1,11 @@
+
 var w = c.width = window.innerWidth,
 		h = c.height = window.innerHeight,
 		ctx = c.getContext( '2d' ),
 		
 		opts = {
 			
-			range: 400,
+			range: 200,
 			baseConnections: 3,
 			addedConnections: 5,
 			baseSize: 5,
